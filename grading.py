@@ -2,10 +2,11 @@
 
 # Created by: Jonathan Pasco-Arnone
 # Created on: December 2020
-# This program calculates the area of a triangle
+# This program determines you grade middle percentage
 
 
 def which_mark(mark):
+    # This function determines you grade middle percentage
 
     if mark == "4+":
         mark_percent = 97
